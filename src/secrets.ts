@@ -1,0 +1,1 @@
+export const DEFAULT_PROJECT_SERVICE_ACCOUNT_KEY = ""
