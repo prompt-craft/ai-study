@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prompt-craft.github.io/ai-study/sitemap.xml
